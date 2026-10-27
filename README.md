@@ -1,3 +1,5 @@
+![Website preview](preview.png)
+
 # Code Twin — Portfolio
 
 Portfolio website of Code Twin, a web, photo & motion startup based in Dakhla, Morocco.
